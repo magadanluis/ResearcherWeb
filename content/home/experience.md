@@ -39,7 +39,7 @@ experience:
     company_logo: uniovi
     location: Asturias
     date_start: '2021-09-01'
-    date_end: '2022-02-01'
+    date_end: '2023-02-01'
     description: |2-
         Computer Architecture and Technology area where I teach/taught:
         

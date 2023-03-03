@@ -1,5 +1,5 @@
 ---
-title: "Low-Cost Industrial IoT System for Wireless Monitoring of Electric Motors Condition"
+title: "A Robust Health Prognostics Technique for Failure Diagnosis and the Remaining Useful Lifetime Predictions of Bearings in Electric Motors"
 authors:
 - L. Magadán
 - F. J. Suárez
