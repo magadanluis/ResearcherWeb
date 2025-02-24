@@ -4,7 +4,7 @@ first_name: Luis
 last_name: Magadán
 higlight_name: true
 superuser: true
-role: Lecturer & IIoT researcher
+role: Assistant Professor Doctor
 avatar_filename: avatar.jpg
 
 organizations:
@@ -50,6 +50,6 @@ social:
 email: ''
 ---
 
-I am a PhD candidate in the Self-management of IT systems Lab in the Department of Computer Sciences at the University of Oviedo. My research interests are related with the Industrial Internet of Things, specially with the development of low-cost prototypes oriented to health prognostics of electric motors. I have developed a low-cost vibration monitoring system and a meter monitoring system, both currently installed in different industrial plants. I am a lecturer in the area of Computer Architecture and Technology at the University of Oviedo.
+I obtained a PhD in Computer Science in 2024. My research interests are related with the Industrial Internet of Things, specially with the development of low-cost prototypes oriented to health prognostics of electric motors. I have developed a low-cost vibration monitoring system and a meter monitoring system, both currently installed in different industrial plants. At this moment, I am working with AI for predictive maintenance, specifically oriented to provide explainability and interpretability in fault diagnosis and detection, also leading with data limitation in real industrial scenarios.
 
 {style="text-align: justify;"}
