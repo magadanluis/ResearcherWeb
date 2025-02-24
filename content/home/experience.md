@@ -22,13 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Assistant Professor Doctor
+    company: University of Oviedo
+    company_url: 'https://www.uniovi.es'
+    company_logo: uniovi
+    location: Asturias
+    date_start: '2024-09-13'
+    date_end: ''
+    description: |2-
+        Computer Architecture and Technology area where I teach/taught:
+        
+        * Computer and Network Fundamentals
+        * Computer Architecture
+        * Computing Infrastructure
   - title: Severo Ochoa Fellowship
     company: University of Oviedo
     company_url: 'https://www.uniovi.es'
     company_logo: uniovi
     location: Asturias
     date_start: '2023-02-01'
-    date_end: ''
+    date_end: '2024-09-12'
     description: |2-
         Computer Architecture and Technology area where I teach/taught:
         
