@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Assistant Professor Doctor
+  - title: Assistant Professor
     company: University of Oviedo
     company_url: 'https://www.uniovi.es'
     company_logo: uniovi
@@ -35,6 +35,15 @@ experience:
         * Computer and Network Fundamentals
         * Computer Architecture
         * Computing Infrastructure
+  - title: Visiting Researcher
+    company: Cranfield University
+    company_url: 'https://www.cranfield.ac.uk'
+    company_logo: cranfield
+    location: Cranfield
+    date_start: '2023-05-12'
+    date_end: '2024-08-12'
+    description: |2-
+        Research and development of ML tools for bearing fault detection and diagnosis (MS2AE-DTW) providing interpretability and explainability under limited data
   - title: Severo Ochoa Fellowship
     company: University of Oviedo
     company_url: 'https://www.uniovi.es'
