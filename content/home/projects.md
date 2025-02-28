@@ -31,6 +31,8 @@ content:
       tag: '*'
     - name: National Projects
       tag: NP
+    - name: Regional Projects
+      tag: RP
     - name: IUTA Projects
       tag: IUTA
     - name: FUO Projects
