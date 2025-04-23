@@ -6,6 +6,7 @@ authors:
 - J. C. Granda
 - F. J. Suárez
 date: "2025-04-17T00:00:00Z"
+doi: "10.1109/TLA.2025.10974368"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-11-05T00:00:00Z"
