@@ -44,7 +44,10 @@ social:
     link: https://www.linkedin.com/in/luis-magadan-cobo/
   - icon: researchgate
     icon_pack: ai
-    link: https://www.researchgate.net/profile/Luis-Magadan-2	
+    link: https://www.researchgate.net/profile/Luis-Magadan-2
+  - icon: book
+    icon_pack: fas
+    link: https://digibuo.uniovi.es/dspace/handle/10651/74727 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
