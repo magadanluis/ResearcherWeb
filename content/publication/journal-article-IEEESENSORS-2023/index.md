@@ -6,7 +6,7 @@ authors:
 - J. C. Granda
 - F. J. Suárez
 date: "2023-11-14T00:00:00Z"
-doi: "https://doi.org/10.1109/JSEN.2023.33311002"
+doi: "https://doi.org/10.1109/JSEN.2023.3331100"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-11-14T00:00:00Z"
