@@ -35,6 +35,16 @@ experience:
         * Computer and Network Fundamentals
         * Computer Architecture
         * Computing Infrastructure
+        * Computer Graphics
+  - title: Visiting Researcher
+    company: University of Jaén
+    company_url: 'https://www.ujaen.es'
+    company_logo: ujaen
+    location: Jaén
+    date_start: '2025-12-12'
+    date_end: '2026-01-12'
+    description: |2-
+        Reasearch about multi-domain features in bearing fault detection and diagnosis using TabPFN leading with data-scarce conditions
   - title: Visiting Researcher
     company: Cranfield University
     company_url: 'https://www.cranfield.ac.uk'
@@ -105,3 +115,4 @@ experience:
 design:
   columns: '2'
 ---
+
