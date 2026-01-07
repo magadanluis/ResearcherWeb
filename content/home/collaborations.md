@@ -22,4 +22,6 @@ feature:
   - description: '<a href="https://www.compromisoasturiasxxi.es/"><img src="https://informeasturias.com/wp-content/uploads/2024/11/compromiso-asturias-xxi-logo-800x600-1-500x500.png" width="250"></a>'
   - description: '<a href="https://iuta.uniovi.es/"><img src="https://iuta.uniovi.es/o/adaptive-media/image/2083473/3/0c6389bc-3cc1-c6f7-a6d2-d9894e088d74?t=1716903845317" width="250"></a>'
   - description: '<a href="https://www.asturias.es/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Isologo_del_Gobierno_del_Principado_de_Asturias_en_idioma_castellano_%282022%29.svg/1200px-Isologo_del_Gobierno_del_Principado_de_Asturias_en_idioma_castellano_%282022%29.svg.png" width="250"></a>'
+  - description: '<a href="https://www.iadb.org/es"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logo_BID_Espa%C3%B1ol.png/1280px-Logo_BID_Espa%C3%B1ol.png" width="250"></a>'
 ---
+
