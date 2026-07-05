@@ -44,7 +44,7 @@ experience:
     date_start: '2026-05-01'
     date_end: '2026-10-31'
     descritpion: |2-
-    	Research aimed at certifying 3- and 4-planet gears using limited data and machine learning
+      Research aimed at certifying 3- and 4-planet gears using limited data and machine learning
   - title: Visiting Researcher
     company: University of Jaén
     company_url: 'https://www.ujaen.es'
